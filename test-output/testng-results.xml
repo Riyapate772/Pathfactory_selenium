@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name=" LogIn Test" duration-ms="31077" started-at="2021-06-11T05:53:38Z" finished-at="2021-06-11T05:54:09Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="31077" started-at="2021-06-11T05:53:38Z" finished-at="2021-06-11T05:54:09Z">
+      <class name="TestCases.LogIn_Test">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="SetUp" is-config="true" duration-ms="8857" started-at="2021-06-11T01:53:38Z" finished-at="2021-06-11T01:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="BlankValues_LogIn()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="BlankValues_LogIn" duration-ms="1066" started-at="2021-06-11T01:53:47Z" finished-at="2021-06-11T01:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankValues_LogIn -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="CloseBrowser" is-config="true" duration-ms="114" started-at="2021-06-11T01:53:48Z" finished-at="2021-06-11T01:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="SetUp" is-config="true" duration-ms="9154" started-at="2021-06-11T01:53:48Z" finished-at="2021-06-11T01:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="InvalidUser_LogIn()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="InvalidUser_LogIn" duration-ms="1517" started-at="2021-06-11T01:53:57Z" finished-at="2021-06-11T01:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUser_LogIn -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="CloseBrowser" is-config="true" duration-ms="104" started-at="2021-06-11T01:53:58Z" finished-at="2021-06-11T01:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="SetUp" is-config="true" duration-ms="8438" started-at="2021-06-11T01:53:59Z" finished-at="2021-06-11T01:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="UserLogIn_Actions()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="UserLogIn_Actions" duration-ms="1705" started-at="2021-06-11T01:54:07Z" finished-at="2021-06-11T01:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogIn_Actions -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.LogIn_Test@69930714]" name="CloseBrowser" is-config="true" duration-ms="106" started-at="2021-06-11T01:54:09Z" finished-at="2021-06-11T01:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestCases.LogIn_Test -->
+    </test> <!-- test -->
+  </suite> <!--  LogIn Test -->
+</testng-results>
