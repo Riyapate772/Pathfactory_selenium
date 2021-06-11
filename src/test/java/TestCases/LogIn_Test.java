@@ -43,6 +43,8 @@ public class LogIn_Test extends Config_Holders {
         logInPage = logInPage.LogInWithBlankValue();
 
     }
+    
+    //click on the Forget password button
 
     @AfterMethod
     public void CloseBrowser() {
